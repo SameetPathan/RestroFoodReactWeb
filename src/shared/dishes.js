@@ -1,0 +1,77 @@
+export const DISHES =
+    [
+        {
+        id: 0,
+        name:'Pizza',
+        image: 'assets/images/pizza1.jpg',
+        category: 'mains',
+        label:'Hot',
+        price:'150 rs',
+        description:'A unique combination of Indian  Italian pizza, topped with Cerignola olives, ripe vine cherry tomatoes, Vidalia onion, Guntur chillies and Buffalo Paneer.',
+        },
+        {
+        id: 1,
+        name:'Poha',
+        image: 'assets/images/poha.jpg',
+        category: 'appetizer',
+        label:'',
+        price:'30 rs',
+        description:'Deep fried Zucchini coated with mildly spiced Chickpea flour batter accompanied with a sweet-tangy tamarind sauce',
+        },
+        {
+        id: 2,
+        name:'Burger',
+        image: 'assets/images/burger1.jfif',
+        category: 'appetizer',
+        label:'New',
+        price:'60 rs',
+        description:'A quintessential ConFusion experience, is it a vada or is it a donut?',
+       
+        },
+        {
+        id: 3,
+        name:'Diet BreakFast',
+        image: 'assets/images/dietbreakfast1.jpg',
+        category: 'dessert',
+        label:'',
+        price:'120 rs',
+        description:'A delectable, semi-sweet New York Style Cheese Cake, with Graham cracker crust and spiced with Indian cardamoms',
+        },
+        {
+            id: 4,
+            name:'Fish Thali',
+            image: 'assets/images/fishthali1.jpg',
+            category: 'dessert',
+            label:'',
+            price:'200 rs',
+            description:'A delectable, semi-sweet New York Style Cheese Cake, with Graham cracker crust and spiced with Indian cardamoms',
+        },
+        {
+                id: 5,
+                name:'Noodles',
+                image: 'assets/images/noodles.jfif',
+                category: 'dessert',
+                label:'',
+                price:'140 rs',
+                description:'A delectable, semi-sweet New York Style Cheese Cake, with Graham cracker crust and spiced with Indian cardamoms',
+        },
+        {
+            id: 6,
+            name:'Veg Thali',
+            image: 'assets/images/vegthali1.jpg',
+            category: 'dessert',
+            label:'',
+            price:'100 rs',
+            description:'A delectable, semi-sweet New York Style Cheese Cake, with Graham cracker crust and spiced with Indian cardamoms',
+            },
+            {
+                id: 7,
+                name:'Biryani',
+                image: 'assets/images/biryani.jpg',
+                category: 'dessert',
+                label:'',
+                price:'600 rs',
+                description:'A delectable, semi-sweet New York Style Cheese Cake, with Graham cracker crust and spiced with Indian cardamoms',
+                }
+                
+    ];
